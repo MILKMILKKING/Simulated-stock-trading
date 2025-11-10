@@ -1,0 +1,25 @@
+{
+  "name": "simulated-stock-trading",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "模拟股票交易系统 - 基于K线的交易训练平台",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "echarts": "^5.4.3",
+    "echarts-for-react": "^3.0.2",
+    "axios": "^1.6.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.0",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32",
+    "tailwindcss": "^3.3.6",
+    "vite": "^5.0.6"
+  }
+}
